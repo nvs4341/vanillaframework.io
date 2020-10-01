@@ -1,5 +1,5 @@
 # ARCHIVED
-
+# Canonical Approach Web and Design
 This repository is archived. The vanillaframework.io site was moved to [@canonical-web-and-design/vanilla-framework](https://github.com/canonical-web-and-design/vanilla-framework/).
 
 # vanillaframework.io
